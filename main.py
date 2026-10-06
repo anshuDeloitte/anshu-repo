@@ -1,0 +1,2 @@
+print("hello kuchu puchu")
+
